@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-24d63272","path":"/java/java-advence/jvm/7.JVM-%E6%9C%AC%E5%9C%B0%E6%96%B9%E6%B3%95%E6%A0%88.html","title":"JVM-\u672C\u5730\u65B9\u6CD5\u6808","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"java/java-advence/jvm/7.JVM-\u672C\u5730\u65B9\u6CD5\u6808.md"}');export{a as data};

@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-5a449270","path":"/java/java-advence/","title":"","lang":"zh-CN","frontmatter":{"heroImage":"/hero.png","actionText":"\u5FEB\u901F\u4E0A\u624B \u2192","actionLink":"/java/java-advence/"},"excerpt":"","headers":[],"git":{},"filePathRelative":"java/java-advence/README.md"}');export{a as data};
