@@ -1,0 +1,18 @@
+{
+    "name": "晨光向的编程之旅",
+    "short_name": "晨光向的编程之旅",
+    "display": "standalone",
+    "background_color": "#fff",
+    "start_url": "./index.html",
+    "scope": ".",
+    "description": "晨光向的编程之旅",
+    "icons": [{
+        "src": "https://chggx-typora.oss-cn-beijing.aliyuncs.com/typora/202303282343404.png",
+        "sizes": "52x52",
+        "type": "image/png"
+    },{
+        "src": "https://chggx-typora.oss-cn-beijing.aliyuncs.com/typora/202303282343163.png",
+        "sizes": "288x288",
+        "type": "image/png"
+    }]
+}
